@@ -1,0 +1,15 @@
+
+> context-reminder-frontend@1.0.0 web
+> expo start --web --clear
+
+Starting project at E:\Remainder System\frontend
+Starting Metro Bundler
+warning: Bundler cache is empty, rebuilding (this may take a minute)
+Waiting on http://localhost:8081
+Logs for your project will appear below.
+Web Bundling failed 19924ms node_modules\expo\AppEntry.js (1185 modules)
+Unable to resolve "../../components/map/ReminderHeader" from "src\screens\Map\NearbyRemindersScreen.js"
+Web Bundling failed 941ms node_modules\expo\AppEntry.js (1051 modules)
+Unable to resolve "../../components/map/ReminderHeader" from "src\screens\Map\NearbyRemindersScreen.js"
+Web Bundling failed 797ms node_modules\expo\AppEntry.js (1119 modules)
+Unable to resolve "../../components/map/ReminderHeader" from "src\screens\Map\NearbyRemindersScreen.js"

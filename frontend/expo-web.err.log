@@ -1,0 +1,17 @@
+E:\Remainder System\frontend\node_modules\@expo\cli\build\src\utils\errors.js:123
+    throw error;
+    ^
+
+Error: UNKNOWN: unknown error, lstat 'E:\Remainder System\frontend\node_modules\expo\node_modules\.expo-font-ghy4S3tV\plugin\src\?\E:\Remainder System\frontend\node_modules\expo\node_modules\.expo-font-ghy4S3tV\plugin\src'
+    at Object.lstat (node:internal/fs/promises:1027:18)
+    at FallbackWatcher._processChange (E:\Remainder System\frontend\node_modules\metro-file-map\src\watchers\FallbackWatcher.js:171:20)
+Emitted 'error' event at:
+    at FallbackWatcher.emitError (E:\Remainder System\frontend\node_modules\metro-file-map\src\watchers\AbstractWatcher.js:70:19)
+    at E:\Remainder System\frontend\node_modules\metro-file-map\src\watchers\FallbackWatcher.js:162:14 {
+  errno: -4094,
+  code: 'UNKNOWN',
+  syscall: 'lstat',
+  path: 'E:\\Remainder System\\frontend\\node_modules\\expo\\node_modules\\.expo-font-ghy4S3tV\\plugin\\src\\?\\E:\\Remainder System\\frontend\\node_modules\\expo\\node_modules\\.expo-font-ghy4S3tV\\plugin\\src'
+}
+
+Node.js v22.13.0

@@ -4,7 +4,7 @@ import { Alert, FlatList, SafeAreaView, Text, View } from 'react-native';
 import Button from '../../components/common/Button';
 import GoogleMapView from '../../components/map/GoogleMapView';
 import NearbyReminderCard from '../../components/map/NearbyReminderCard';
-import ReminderHeader from '../../components/map/ReminderHeader';
+import ReminderHeader from '../../components/reminder/ReminderHeader';
 import useLocation from '../../hooks/useLocation';
 import routes from '../../constants/routes';
 
