@@ -1,0 +1,32 @@
+const routes = {
+  SPLASH: 'Splash',
+  AUTH: 'Auth',
+  APP: 'App',
+  LOGIN: 'Login',
+  REGISTER: 'Register',
+  FORGOT_PASSWORD: 'ForgotPassword',
+  MAIN_TABS: 'MainTabs',
+  HOME: 'Home',
+  PROFILE: 'Profile',
+  SETTINGS: 'Settings',
+  REMINDERS: 'Reminders',
+  ADD_REMINDER: 'AddReminder',
+  EDIT_REMINDER: 'EditReminder',
+  MAPS: 'Maps',
+  SELECT_LOCATION: 'SelectLocation',
+  NEARBY_REMINDERS: 'NearbyReminders',
+  GEOFENCE: 'Geofence',
+  CONTEXT_DASHBOARD: 'ContextDashboard',
+  NOTIFICATIONS: 'Notifications',
+  NOTIFICATION_DETAILS: 'NotificationDetails',
+  NOTIFICATION_SETTINGS: 'NotificationSettings',
+  ANALYTICS_DASHBOARD: 'AnalyticsDashboard',
+  PROFILE_EDIT: 'EditProfile',
+  PRIVACY: 'Privacy',
+  ABOUT: 'About',
+  HELP: 'Help',
+  ANALYTICS: 'Analytics',
+  REMINDER_DETAILS: 'ReminderDetails'
+};
+
+export default routes;
